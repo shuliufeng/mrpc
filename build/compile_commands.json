@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/nowcoder/mprpc/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/nowcoder/mprpc/src/include -I/home/nowcoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/nowcoder/mprpc/src/mprpcapplication.cc",
+  "file": "/home/nowcoder/mprpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/nowcoder/mprpc/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/nowcoder/mprpc/src/include -I/home/nowcoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/nowcoder/mprpc/src/mprpcconfig.cc",
+  "file": "/home/nowcoder/mprpc/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/nowcoder/mprpc/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/nowcoder/mprpc/src/include -I/home/nowcoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/nowcoder/mprpc/src/rpcheader.pb.cc",
+  "file": "/home/nowcoder/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/nowcoder/mprpc/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/nowcoder/mprpc/src/include -I/home/nowcoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/nowcoder/mprpc/src/rpcprovider.cc",
+  "file": "/home/nowcoder/mprpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/nowcoder/mprpc/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/nowcoder/mprpc/src/include -I/home/nowcoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/nowcoder/mprpc/src/mprpcchannel.cc",
+  "file": "/home/nowcoder/mprpc/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/nowcoder/mprpc/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/nowcoder/mprpc/src/include -I/home/nowcoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/nowcoder/mprpc/src/mprpccontroller.cc",
+  "file": "/home/nowcoder/mprpc/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/nowcoder/mprpc/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/nowcoder/mprpc/src/include -I/home/nowcoder/mprpc/example  -g   -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/nowcoder/mprpc/src/zookeeperutil.cc",
+  "file": "/home/nowcoder/mprpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/nowcoder/mprpc/build/example/callee",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/nowcoder/mprpc/src/include -I/home/nowcoder/mprpc/example  -g   -o CMakeFiles/provider.dir/friendservice.cc.o -c /home/nowcoder/mprpc/example/callee/friendservice.cc",
+  "file": "/home/nowcoder/mprpc/example/callee/friendservice.cc"
+},
+{
+  "directory": "/home/nowcoder/mprpc/build/example/callee",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/nowcoder/mprpc/src/include -I/home/nowcoder/mprpc/example  -g   -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /home/nowcoder/mprpc/example/friend.pb.cc",
+  "file": "/home/nowcoder/mprpc/example/friend.pb.cc"
+},
+{
+  "directory": "/home/nowcoder/mprpc/build/example/caller",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/nowcoder/mprpc/src/include -I/home/nowcoder/mprpc/example  -g   -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /home/nowcoder/mprpc/example/caller/callfriendservice.cc",
+  "file": "/home/nowcoder/mprpc/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/home/nowcoder/mprpc/build/example/caller",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/nowcoder/mprpc/src/include -I/home/nowcoder/mprpc/example  -g   -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /home/nowcoder/mprpc/example/friend.pb.cc",
+  "file": "/home/nowcoder/mprpc/example/friend.pb.cc"
+}
+]

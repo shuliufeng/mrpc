@@ -1,0 +1,4 @@
+15:30:51 =>[info] 11111
+15:34:34 =>[info] 11111
+15:34:34 =>[info] service_name:FiendServiceRpc
+15:34:34 =>[info] method_name:GetFriendsList

@@ -1,0 +1,6 @@
+15:20:16 =>[info] 11111
+15:20:16 =>[info] service_name:FiendServiceRpc
+15:20:16 =>[info] method_name:GetFriendsList
+16:2:7 =>[info] 11111
+16:2:7 =>[info] service_name:FiendServiceRpc
+16:2:7 =>[info] method_name:GetFriendsList

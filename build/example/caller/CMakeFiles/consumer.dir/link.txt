@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/consumer.dir/callfriendservice.cc.o CMakeFiles/consumer.dir/__/friend.pb.cc.o  -o ../../../bin/consumer  -L/home/nowcoder/mprpc/lib -Wl,-rpath,/home/nowcoder/mprpc/lib ../../../lib/libmprpc.a -lprotobuf -lpthread -lzookeeper_mt -lmymuduo 
